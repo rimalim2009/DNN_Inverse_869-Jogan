@@ -16,4 +16,4 @@ jogan_gs5.csv: Dataset of 2011 Tohoku-oki tsunami measured at the Odaka region, 
 
 config_g5_400grid_gs.ini: Configuration file of the forward model used for production of the training datasets and inversion.
 
-config_g5_400grid_gs.ini: Detailed calculation of measured grain-size distribution of 869 Jogan tsunami from Sendai region, Japan.
+Post_interp_calculation.xlsx: Detailed calculation of measured grain-size distribution of 869 Jogan tsunami from Sendai region, Japan.
