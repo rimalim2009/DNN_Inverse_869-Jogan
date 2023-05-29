@@ -6,7 +6,7 @@ Explanation of files Version 1.0:
 
 Forward_model_for_DNN_jogan_5gs_Rw820_400grid.py: The forward model for deposition from 869 tsunami
 
-jogan_paper_5gs: A jupyter notebook for performing the inversion
+jogan_paper_5gs_Final: A jupyter notebook for performing the inversion
 
 start_param_random_5500_jogan_gs5_rw820_400grid.csv: Teacher data. Initial conditions used for production of training datasets.
 
