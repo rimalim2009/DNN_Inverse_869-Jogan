@@ -18,4 +18,4 @@ config_g5_400grid_gs.ini: Configuration file of the forward model used for produ
 
 Post_interp_calculation.xlsx: Detailed calculation of measured grain-size distribution of 869 Jogan tsunami from Sendai region, Japan.
 
-Cite the code: 10.5281/zenodo.7981290
+Cite the code: https://doi.org/10.5281/zenodo.7981290
